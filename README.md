@@ -2,4 +2,5 @@
 
 # 웹사이트 리디자인 - 오리온
 
-👉 [PC 페이지 바로가기](https://hwangseongi.github.io/Orion/)
+👉 [Figma 바로가기]()
+👉 [PC 바로가기](https://hwangseongi.github.io/Orion/)
